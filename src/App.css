@@ -1,0 +1,16 @@
+#root {
+  background-color:darkslategrey;
+  height: 100vh;
+}
+
+.form {
+  width: clamp(320px, 80%, 1000px);
+  height: 100vh;
+  background-color:antiquewhite;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4.8rem;
+}
