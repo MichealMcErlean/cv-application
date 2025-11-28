@@ -10,6 +10,6 @@ function App() {
       <h2>An Odin Project Exercise</h2>
       <GeneralSection />
     </div>
-  );
+  )
 }
 export default App
