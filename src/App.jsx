@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { GeneralSection } from './components/Section'
+import { GeneralSection, EducationSection, WorkSection } from './components/Section'
 
 import './App.css'
 
@@ -9,6 +9,8 @@ function App() {
       <h1>CV Application</h1>
       <h2>An Odin Project Exercise</h2>
       <GeneralSection />
+      <EducationSection />
+      <WorkSection />
     </div>
   )
 }
